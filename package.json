@@ -1,0 +1,23 @@
+{
+  "name": "anagramstdd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha || false"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ozukyo/AnagramsTDD.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ozukyo/AnagramsTDD/issues"
+  },
+  "homepage": "https://github.com/Ozukyo/AnagramsTDD#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.1.2"
+  }
+}
